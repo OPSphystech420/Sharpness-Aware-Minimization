@@ -1,1 +1,1 @@
-[Ландшафт функции потерь нейронных сетей:SAM и его модификации](Sharpness_Aware_Minimization.pdf)
+[Ландшафт функции потерь нейронных сетей: SAM и его модификации](Sharpness_Aware_Minimization.pdf)
